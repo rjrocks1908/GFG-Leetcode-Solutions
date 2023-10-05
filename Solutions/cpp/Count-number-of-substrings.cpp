@@ -1,4 +1,7 @@
 /*
+Question -
+https://practice.geeksforgeeks.org/problems/count-number-of-substrings4528/1
+
 Intuition - 
 To find exactly k unique characters of substringsk, we need to find the
 substrings which has at most k unique characters and then we will substract the
