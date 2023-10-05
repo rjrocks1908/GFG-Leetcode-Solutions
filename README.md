@@ -1,8 +1,8 @@
-# GFG Solutions
+# GFG-LeetCode Solutions
 
-Welcome to the GitHub repository for GFG Solutions
+Welcome to the GitHub repository for GFG-LeetCode Solutions
 
-This repository contains solutions to various problems from Geeks For Geeks. The goal of this project is to provide clear and efficient solutions for learning and reference.
+This repository contains solutions to various problems from Geeks For Geeks and LeetCode. The goal of this project is to provide clear and efficient solutions for learning and reference.
 
 Each solution comes with a detailed explanation of the problem, the intuition behind the solution, the approach used, and the time and space complexity analysis.
 

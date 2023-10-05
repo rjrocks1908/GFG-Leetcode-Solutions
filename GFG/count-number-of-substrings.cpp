@@ -15,6 +15,10 @@ array of size 26 to check that the substring we select has atmost k unique chara
 
 We keep on incrementing the "i" untill we find k unique characters and then from idx to i we will
 add all the substring. "idx" will only move when unique characters become greater than k.
+
+Complexities:
+TC: O(N)
+SC: O(1)
 */
 
 class Solution
